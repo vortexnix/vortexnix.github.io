@@ -9,7 +9,7 @@ Jasmine B 433
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 # Kitchen
 
-![Floor Plan](images_lyx/fp1010.pdf-1)
+![Floor Plan](images_lyx/fp1010-1.png)
 
 ![3D View](images_lyx/fp1011.png)
 
